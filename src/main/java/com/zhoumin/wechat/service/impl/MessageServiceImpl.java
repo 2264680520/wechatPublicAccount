@@ -125,7 +125,7 @@ public class MessageServiceImpl implements MessageService {
     }
 
     /**
-     * 发送图片信息
+     * 微信发送给用户图片信息
      *
      * @param requestMap
      * @return
